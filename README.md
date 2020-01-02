@@ -40,3 +40,6 @@ Initial version
 
 // Fixed issues on 2024-08-28
 // Improving stability and performance
+# README.md - Created on 2020-01-02
+
+Initial version
