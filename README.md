@@ -10,3 +10,6 @@ Initial version
 
 // Added pagination feature on 2022-03-21
 // Enhancing user experience
+# README.md - Created on 2020-01-03
+
+Initial version
