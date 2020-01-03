@@ -43,3 +43,6 @@ Initial version
 
 // Fixed issues on 2024-07-15
 // Improving stability and performance
+# main.js - Created on 2020-01-03
+
+Initial version
