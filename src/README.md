@@ -40,3 +40,6 @@ This directory contains files related to src functionality.
 
 // Fixed issues on 2024-08-15
 // Improving stability and performance
+# src
+
+This directory contains files related to src functionality.
