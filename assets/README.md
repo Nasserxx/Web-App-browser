@@ -43,3 +43,6 @@ This directory contains files related to assets functionality.
 
 // Updated on 2024-11-22
 // Maintenance and minor improvements
+# assets
+
+This directory contains files related to assets functionality.
