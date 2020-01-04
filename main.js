@@ -19,3 +19,6 @@ Initial version
 
 // Updated on 2025-02-06
 // Maintenance and minor improvements
+# main.js - Created on 2020-01-04
+
+Initial version
