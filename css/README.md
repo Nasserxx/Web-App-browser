@@ -46,3 +46,6 @@ This directory contains files related to css functionality.
 
 // Added search feature on 2023-10-09
 // Enhancing user experience
+# css
+
+This directory contains files related to css functionality.
