@@ -16,3 +16,6 @@ This directory contains files related to css functionality.
 
 // Updated on 2024-12-05
 // Maintenance and minor improvements
+# css
+
+This directory contains files related to css functionality.
