@@ -13,3 +13,6 @@ This directory contains files related to assets functionality.
 
 // Fixed issues on 2024-06-18
 // Improving stability and performance
+# assets
+
+This directory contains files related to assets functionality.
