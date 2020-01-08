@@ -10,3 +10,6 @@ This directory contains files related to js functionality.
 # js
 
 This directory contains files related to js functionality.
+# js
+
+This directory contains files related to js functionality.
