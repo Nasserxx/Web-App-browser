@@ -28,3 +28,6 @@ This directory contains files related to docs functionality.
 
 // Added core functionality on 2020-08-10
 // Implementing essential features
+# docs
+
+This directory contains files related to docs functionality.
