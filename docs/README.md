@@ -31,3 +31,6 @@ This directory contains files related to docs functionality.
 # docs
 
 This directory contains files related to docs functionality.
+# docs
+
+This directory contains files related to docs functionality.
