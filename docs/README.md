@@ -22,3 +22,6 @@ This directory contains files related to docs functionality.
 
 // Fixed issues on 2024-07-17
 // Improving stability and performance
+# docs
+
+This directory contains files related to docs functionality.
