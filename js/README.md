@@ -34,3 +34,6 @@ This directory contains files related to js functionality.
 
 // Added registration feature on 2022-01-04
 // Enhancing user experience
+# js
+
+This directory contains files related to js functionality.
