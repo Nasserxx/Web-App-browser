@@ -43,3 +43,13 @@
  
 // Implementation goes here
 
+/**
+ * UI JavaScript file
+ * Created on: 2020-01-14
+ * Author: Nasserxx
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
