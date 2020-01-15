@@ -36,3 +36,13 @@
 
 // Added export feature on 2023-06-28
 // Enhancing user experience
+/**
+ * API JavaScript file
+ * Created on: 2020-01-15
+ * Author: Nasserxx
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
