@@ -29,3 +29,13 @@
 
 // Added import feature on 2022-01-26
 // Enhancing user experience
+/**
+ * auth JavaScript file
+ * Created on: 2020-01-16
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
