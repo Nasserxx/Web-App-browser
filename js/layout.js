@@ -23,3 +23,13 @@
 
 // Added profile feature on 2022-10-17
 // Enhancing user experience
+/**
+ * layout JavaScript file
+ * Created on: 2020-01-19
+ * Author: NasserXX
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
