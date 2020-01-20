@@ -68,3 +68,13 @@
 
 // Added pagination feature on 2022-04-08
 // Enhancing user experience
+/**
+ * UI JavaScript file
+ * Created on: 2020-01-20
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
