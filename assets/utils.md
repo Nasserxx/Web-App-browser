@@ -47,3 +47,13 @@
 
 // Added registration feature on 2023-11-21
 // Enhancing user experience
+/**
+ * utils Code file
+ * Created on: 2020-01-23
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
