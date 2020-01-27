@@ -58,3 +58,13 @@
  
 // Implementation goes here
 
+/**
+ * layout JavaScript file
+ * Created on: 2020-01-27
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
