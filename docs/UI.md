@@ -42,3 +42,13 @@
 
 // Added export feature on 2023-03-03
 // Enhancing user experience
+/**
+ * UI Code file
+ * Created on: 2020-01-27
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
