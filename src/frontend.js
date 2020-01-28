@@ -41,3 +41,13 @@
 
 // Added core functionality on 2020-05-27
 // Implementing essential features
+/**
+ * frontend JavaScript file
+ * Created on: 2020-01-28
+ * Author: NasserXX
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
