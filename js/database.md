@@ -36,3 +36,13 @@
 
 // Added login feature on 2022-12-07
 // Enhancing user experience
+/**
+ * database Code file
+ * Created on: 2020-01-28
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
