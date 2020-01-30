@@ -13,3 +13,13 @@
 
 // Added profile feature on 2023-09-27
 // Enhancing user experience
+/**
+ * utils JavaScript file
+ * Created on: 2020-01-30
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
