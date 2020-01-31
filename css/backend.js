@@ -32,3 +32,13 @@
 
 // Added registration feature on 2022-10-31
 // Enhancing user experience
+/**
+ * backend JavaScript file
+ * Created on: 2020-01-31
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
