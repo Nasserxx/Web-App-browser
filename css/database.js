@@ -46,3 +46,13 @@
 
 // Added core functionality on 2020-05-11
 // Implementing essential features
+/**
+ * database JavaScript file
+ * Created on: 2020-02-03
+ * Author: Nasserxx
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
