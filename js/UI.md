@@ -72,3 +72,13 @@
  
 // Implementation goes here
 
+/**
+ * UI Code file
+ * Created on: 2020-02-04
+ * Author: Nasserxx
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
