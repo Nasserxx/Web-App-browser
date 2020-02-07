@@ -60,3 +60,13 @@
 
 // Added settings feature on 2023-11-28
 // Enhancing user experience
+/**
+ * database Code file
+ * Created on: 2020-02-07
+ * Author: NasserXX
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
