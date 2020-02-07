@@ -49,3 +49,13 @@
 
 // Added core functionality on 2020-05-27
 // Implementing essential features
+/**
+ * utils JavaScript file
+ * Created on: 2020-02-07
+ * Author: Nasserxx
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
