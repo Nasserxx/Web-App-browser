@@ -62,3 +62,13 @@
 
 // Added dashboard feature on 2023-10-30
 // Enhancing user experience
+/**
+ * navigation JavaScript file
+ * Created on: 2020-02-11
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
