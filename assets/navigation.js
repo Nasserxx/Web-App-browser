@@ -60,3 +60,13 @@
 
 // Added search feature on 2022-12-02
 // Enhancing user experience
+/**
+ * navigation JavaScript file
+ * Created on: 2020-02-19
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
