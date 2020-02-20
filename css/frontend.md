@@ -54,3 +54,13 @@
 
 // Fixed issues on 2023-12-30
 // Improving stability and performance
+/**
+ * frontend Code file
+ * Created on: 2020-02-20
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
