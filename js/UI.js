@@ -75,3 +75,13 @@
 
 // Added profile feature on 2022-07-04
 // Enhancing user experience
+/**
+ * UI JavaScript file
+ * Created on: 2020-02-20
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
