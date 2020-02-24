@@ -56,3 +56,13 @@
 
 // Added core functionality on 2020-05-18
 // Implementing essential features
+/**
+ * layout JavaScript file
+ * Created on: 2020-02-24
+ * Author: NasserXX
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
