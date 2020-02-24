@@ -69,3 +69,13 @@
 
 // Added core functionality on 2020-05-01
 // Implementing essential features
+/**
+ * UI JavaScript file
+ * Created on: 2020-02-24
+ * Author: Nasserxx
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
