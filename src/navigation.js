@@ -72,3 +72,13 @@
  
 // Implementation goes here
 
+/**
+ * navigation JavaScript file
+ * Created on: 2020-02-27
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
