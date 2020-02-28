@@ -89,3 +89,13 @@
 
 // Fixed issues on 2024-04-05
 // Improving stability and performance
+/**
+ * backend JavaScript file
+ * Created on: 2020-02-28
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
