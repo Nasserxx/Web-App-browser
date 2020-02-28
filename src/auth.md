@@ -23,3 +23,13 @@
 
 // Added registration feature on 2021-12-23
 // Enhancing user experience
+/**
+ * auth Code file
+ * Created on: 2020-02-28
+ * Author: NasserXX
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
