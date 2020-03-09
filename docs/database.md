@@ -26,3 +26,13 @@
 
 // Fixed issues on 2024-02-23
 // Improving stability and performance
+/**
+ * database Code file
+ * Created on: 2020-03-09
+ * Author: Nasserxx
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
