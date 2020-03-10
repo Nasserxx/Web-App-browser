@@ -55,3 +55,13 @@
  
 // Implementation goes here
 
+/**
+ * UI Code file
+ * Created on: 2020-03-10
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
