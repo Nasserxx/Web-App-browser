@@ -65,3 +65,13 @@
  
 // Implementation goes here
 
+/**
+ * navigation JavaScript file
+ * Created on: 2020-03-12
+ * Author: NasserXX
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
