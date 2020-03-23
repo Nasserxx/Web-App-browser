@@ -23,3 +23,13 @@
 
 // Added import feature on 2023-08-31
 // Enhancing user experience
+/**
+ * UI Code file
+ * Created on: 2020-03-24
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
