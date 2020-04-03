@@ -94,3 +94,13 @@
 
 // Added profile feature on 2023-08-11
 // Enhancing user experience
+/**
+ * layout JavaScript file
+ * Created on: 2020-04-03
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
