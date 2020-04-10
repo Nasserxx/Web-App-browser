@@ -64,3 +64,13 @@
  
 // Implementation goes here
 
+/**
+ * frontend Code file
+ * Created on: 2020-04-10
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
