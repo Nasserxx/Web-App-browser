@@ -36,3 +36,6 @@
 
 // Updated on 2024-10-17
 // Maintenance and minor improvements
+
+// Added core functionality on 2020-04-14
+// Implementing essential features
