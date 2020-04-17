@@ -59,3 +59,13 @@
 
 // Added dashboard feature on 2023-06-28
 // Enhancing user experience
+/**
+ * frontend JavaScript file
+ * Created on: 2020-04-17
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
