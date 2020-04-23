@@ -39,3 +39,13 @@
 
 // Fixed issues on 2024-04-29
 // Improving stability and performance
+/**
+ * API JavaScript file
+ * Created on: 2020-04-23
+ * Author: NasserXX
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
