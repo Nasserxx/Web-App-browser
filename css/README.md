@@ -25,3 +25,6 @@ This directory contains files related to css functionality.
 # css
 
 This directory contains files related to css functionality.
+
+// Added core functionality on 2020-04-30
+// Implementing essential features
