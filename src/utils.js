@@ -101,3 +101,13 @@
 
 // Added login feature on 2023-03-03
 // Enhancing user experience
+/**
+ * utils JavaScript file
+ * Created on: 2020-05-06
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
