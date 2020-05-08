@@ -22,3 +22,6 @@ Initial version
 # main.js - Created on 2020-01-04
 
 Initial version
+
+// Added core functionality on 2020-05-08
+// Implementing essential features
