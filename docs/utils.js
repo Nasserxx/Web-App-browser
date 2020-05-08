@@ -18,3 +18,13 @@
  
 // Implementation goes here
 
+/**
+ * utils JavaScript file
+ * Created on: 2020-05-08
+ * Author: NasserXX
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
