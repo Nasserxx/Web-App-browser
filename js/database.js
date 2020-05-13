@@ -53,3 +53,13 @@
  
 // Implementation goes here
 
+/**
+ * database JavaScript file
+ * Created on: 2020-05-13
+ * Author: Nasserxx
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
