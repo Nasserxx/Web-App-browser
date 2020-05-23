@@ -8,3 +8,6 @@
  
 // Implementation goes here
 
+// js/frontend.js - Created on 2020-05-23
+
+// Implementation
