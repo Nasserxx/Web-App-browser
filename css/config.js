@@ -27,3 +27,13 @@
 
 // Added registration feature on 2023-01-06
 // Enhancing user experience
+/**
+ * config JavaScript file
+ * Created on: 2020-05-27
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
