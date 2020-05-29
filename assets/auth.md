@@ -42,3 +42,13 @@
 
 // Fixed issues on 2024-07-11
 // Improving stability and performance
+/**
+ * auth Code file
+ * Created on: 2020-05-29
+ * Author: NasserXX
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
