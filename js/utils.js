@@ -78,3 +78,13 @@
 
 // Fixed issues on 2024-02-14
 // Improving stability and performance
+/**
+ * utils JavaScript file
+ * Created on: 2020-05-30
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
