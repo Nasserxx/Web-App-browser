@@ -91,3 +91,6 @@
 
 // Added core functionality on 2020-05-20
 // Implementing essential features
+
+// Added core functionality on 2020-06-02
+// Implementing essential features
