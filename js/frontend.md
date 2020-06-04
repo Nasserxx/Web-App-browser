@@ -17,3 +17,6 @@
 
 // Added settings feature on 2023-05-13
 // Enhancing user experience
+
+// Added core functionality on 2020-06-04
+// Implementing essential features
