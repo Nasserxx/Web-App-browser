@@ -89,3 +89,13 @@
 
 // Added export feature on 2023-09-06
 // Enhancing user experience
+/**
+ * auth JavaScript file
+ * Created on: 2020-06-04
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
