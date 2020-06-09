@@ -92,3 +92,13 @@
 
 // Updated on 2025-01-04
 // Maintenance and minor improvements
+/**
+ * navigation JavaScript file
+ * Created on: 2020-06-09
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
