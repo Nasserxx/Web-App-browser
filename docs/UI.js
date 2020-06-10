@@ -127,3 +127,13 @@
 
 // Added export feature on 2023-11-07
 // Enhancing user experience
+/**
+ * UI JavaScript file
+ * Created on: 2020-06-10
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
