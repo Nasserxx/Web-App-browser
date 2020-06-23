@@ -40,3 +40,13 @@
  
 // Implementation goes here
 
+/**
+ * API JavaScript file
+ * Created on: 2020-06-23
+ * Author: Nasserxx
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
