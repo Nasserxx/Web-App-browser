@@ -25,3 +25,6 @@ This directory contains files related to assets functionality.
 
 // Added core functionality on 2020-05-28
 // Implementing essential features
+
+// Added core functionality on 2020-06-24
+// Implementing essential features
