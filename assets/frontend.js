@@ -28,3 +28,13 @@
 
 // Added export feature on 2023-10-19
 // Enhancing user experience
+/**
+ * frontend JavaScript file
+ * Created on: 2020-07-13
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
