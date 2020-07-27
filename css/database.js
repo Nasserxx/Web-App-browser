@@ -33,3 +33,13 @@
  
 // Implementation goes here
 
+/**
+ * database JavaScript file
+ * Created on: 2020-07-27
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
