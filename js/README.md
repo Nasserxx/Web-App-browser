@@ -16,3 +16,6 @@ This directory contains files related to js functionality.
 # js
 
 This directory contains files related to js functionality.
+
+// Added core functionality on 2020-08-04
+// Implementing essential features
