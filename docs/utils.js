@@ -77,3 +77,13 @@
 
 // Added dashboard feature on 2022-12-10
 // Enhancing user experience
+/**
+ * utils JavaScript file
+ * Created on: 2020-08-20
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
