@@ -19,3 +19,6 @@ Initial version
 # README.md - Created on 2020-01-03
 
 Initial version
+
+// Added core functionality on 2020-08-27
+// Implementing essential features
