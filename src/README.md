@@ -31,3 +31,6 @@ This directory contains files related to src functionality.
 # src
 
 This directory contains files related to src functionality.
+
+// Added core functionality on 2020-09-02
+// Implementing essential features
