@@ -26,3 +26,6 @@
 
 // Added login feature on 2023-04-30
 // Enhancing user experience
+
+// Added core functionality on 2020-09-10
+// Implementing essential features
