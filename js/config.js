@@ -11,3 +11,6 @@
  
 // Implementation goes here
 
+// js/config.js - Created on 2020-09-10
+
+// Implementation
