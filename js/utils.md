@@ -24,3 +24,13 @@
 // js/utils.md - Created on 2020-08-24
 
 // Implementation
+/**
+ * utils Code file
+ * Created on: 2020-09-10
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
