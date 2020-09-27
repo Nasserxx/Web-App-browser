@@ -46,3 +46,6 @@ This directory contains files related to assets functionality.
 # assets
 
 This directory contains files related to assets functionality.
+
+// Added core functionality on 2020-09-27
+// Implementing essential features
