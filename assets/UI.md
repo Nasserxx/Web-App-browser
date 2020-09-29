@@ -130,3 +130,6 @@
 
 // Added import feature on 2022-08-17
 // Enhancing user experience
+
+// Added core functionality on 2020-09-29
+// Implementing essential features
