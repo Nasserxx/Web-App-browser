@@ -18,3 +18,6 @@
  
 // Implementation goes here
 
+// css/frontend.js - Created on 2020-10-12
+
+// Implementation
