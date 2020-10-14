@@ -133,3 +133,13 @@
 
 // Added core functionality on 2020-09-29
 // Implementing essential features
+/**
+ * UI Code file
+ * Created on: 2020-10-14
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
