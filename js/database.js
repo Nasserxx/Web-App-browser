@@ -8,3 +8,6 @@
  
 // Implementation goes here
 
+// js/database.js - Created on 2020-10-15
+
+// Implementation
