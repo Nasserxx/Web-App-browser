@@ -8,3 +8,6 @@
  
 // Implementation goes here
 
+// assets/database.js - Created on 2020-10-16
+
+// Implementation
