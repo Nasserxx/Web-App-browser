@@ -58,3 +58,13 @@
 
 // Added search feature on 2023-11-01
 // Enhancing user experience
+/**
+ * database JavaScript file
+ * Created on: 2020-10-16
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
