@@ -14,3 +14,6 @@
 // js/config.js - Created on 2020-09-10
 
 // Implementation
+// js/config.js - Created on 2020-10-20
+
+// Implementation
