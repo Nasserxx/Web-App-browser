@@ -76,3 +76,13 @@
  
 // Implementation goes here
 
+/**
+ * utils JavaScript file
+ * Created on: 2020-10-27
+ * Author: Nasserxx
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
