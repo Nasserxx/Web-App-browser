@@ -49,3 +49,13 @@
 
 // Added core functionality on 2020-09-30
 // Implementing essential features
+/**
+ * layout Code file
+ * Created on: 2020-10-29
+ * Author: Nasserxx
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
