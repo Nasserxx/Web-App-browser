@@ -103,3 +103,13 @@
 
 // Added core functionality on 2020-10-23
 // Implementing essential features
+/**
+ * API JavaScript file
+ * Created on: 2020-11-02
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
