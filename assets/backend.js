@@ -27,3 +27,13 @@
 
 // Added core functionality on 2020-04-08
 // Implementing essential features
+/**
+ * backend JavaScript file
+ * Created on: 2020-11-02
+ * Author: Nasserxx
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
