@@ -76,3 +76,13 @@
 
 // Added core functionality on 2020-06-05
 // Implementing essential features
+/**
+ * auth Code file
+ * Created on: 2020-11-06
+ * Author: Nasserxx
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
