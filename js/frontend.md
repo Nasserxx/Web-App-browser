@@ -30,3 +30,13 @@
  
 // Implementation goes here
 
+/**
+ * frontend Code file
+ * Created on: 2020-11-18
+ * Author: Nasserxx
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
