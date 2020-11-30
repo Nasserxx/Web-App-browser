@@ -21,3 +21,6 @@
 // docs/frontend.js - Created on 2020-09-16
 
 // Implementation
+
+// Added core functionality on 2020-11-30
+// Implementing essential features
