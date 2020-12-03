@@ -100,3 +100,13 @@
  
 // Implementation goes here
 
+/**
+ * auth Code file
+ * Created on: 2020-12-03
+ * Author: Nasserxx
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
