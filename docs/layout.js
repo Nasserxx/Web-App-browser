@@ -27,3 +27,13 @@
 // docs/layout.js - Created on 2020-10-09
 
 // Implementation
+/**
+ * layout JavaScript file
+ * Created on: 2020-12-11
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
