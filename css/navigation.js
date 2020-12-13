@@ -55,3 +55,13 @@
 
 // Added core functionality on 2020-11-01
 // Implementing essential features
+/**
+ * navigation JavaScript file
+ * Created on: 2020-12-13
+ * Author: Nasserxx
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
