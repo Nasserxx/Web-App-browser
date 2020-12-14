@@ -14,3 +14,6 @@
 // css/database.js - Created on 2020-10-08
 
 // Implementation
+
+// Added core functionality on 2020-12-14
+// Implementing essential features
