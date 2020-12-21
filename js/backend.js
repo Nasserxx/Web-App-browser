@@ -116,3 +116,13 @@
 
 // Added pagination feature on 2023-12-04
 // Enhancing user experience
+/**
+ * backend JavaScript file
+ * Created on: 2020-12-21
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
