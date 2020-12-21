@@ -21,3 +21,13 @@
 // assets/UI.md - Created on 2020-10-14
 
 // Implementation
+/**
+ * UI Code file
+ * Created on: 2020-12-21
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
