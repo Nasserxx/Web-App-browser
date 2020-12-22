@@ -11,3 +11,6 @@
 // assets/config.js - Created on 2020-09-30
 
 // Implementation
+
+// Added core functionality on 2020-12-22
+// Implementing essential features
