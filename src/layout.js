@@ -4,3 +4,6 @@
 // src/layout.js - Created on 2020-10-03
 
 // Implementation
+
+// Added core functionality on 2020-12-22
+// Implementing essential features
