@@ -77,3 +77,13 @@
 
 // Fixed issues on 2024-02-29
 // Improving stability and performance
+/**
+ * auth JavaScript file
+ * Created on: 2020-12-23
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
