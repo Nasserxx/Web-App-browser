@@ -14,3 +14,6 @@
 // assets/auth.md - Created on 2020-11-13
 
 // Implementation
+
+// Added core functionality on 2020-12-24
+// Implementing essential features
