@@ -11,3 +11,6 @@
 // docs/navigation.md - Created on 2020-07-16
 
 // Implementation
+
+// Added core functionality on 2020-12-30
+// Implementing essential features
