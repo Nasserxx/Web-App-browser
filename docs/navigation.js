@@ -14,3 +14,6 @@
 // docs/navigation.js - Created on 2020-09-22
 
 // Implementation
+
+// Added core functionality on 2020-12-31
+// Implementing essential features
