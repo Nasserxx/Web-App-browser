@@ -17,3 +17,13 @@
 
 // Added core functionality on 2020-12-31
 // Implementing essential features
+/**
+ * navigation JavaScript file
+ * Created on: 2021-01-01
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
