@@ -92,3 +92,13 @@
  
 // Implementation goes here
 
+/**
+ * UI Code file
+ * Created on: 2021-01-05
+ * Author: Nasserxx
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
