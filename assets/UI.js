@@ -111,3 +111,13 @@
  
 // Implementation goes here
 
+/**
+ * UI JavaScript file
+ * Created on: 2021-01-07
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
