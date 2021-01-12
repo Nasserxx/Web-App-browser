@@ -37,3 +37,6 @@
 // src/backend.js - Created on 2020-10-31
 
 // Implementation
+
+// Added core functionality on 2021-01-12
+// Implementing essential features
