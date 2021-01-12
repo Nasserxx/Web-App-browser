@@ -7,3 +7,13 @@
 // css/frontend.md - Created on 2020-10-13
 
 // Implementation
+/**
+ * frontend Code file
+ * Created on: 2021-01-12
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
