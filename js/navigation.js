@@ -113,3 +113,13 @@
 
 // Added login feature on 2023-08-24
 // Enhancing user experience
+/**
+ * navigation JavaScript file
+ * Created on: 2021-01-15
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
