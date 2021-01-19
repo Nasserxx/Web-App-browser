@@ -7,3 +7,6 @@
 // css/layout.js - Created on 2020-09-18
 
 // Implementation
+
+// Added core functionality on 2021-01-19
+// Implementing essential features
