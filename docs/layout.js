@@ -156,3 +156,13 @@
 
 // Added dashboard feature on 2023-10-30
 // Enhancing user experience
+/**
+ * layout JavaScript file
+ * Created on: 2021-01-24
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
