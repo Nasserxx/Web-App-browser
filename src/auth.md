@@ -14,3 +14,6 @@
 // src/auth.md - Created on 2020-11-08
 
 // Implementation
+
+// Added core functionality on 2021-01-27
+// Implementing essential features
