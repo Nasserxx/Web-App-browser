@@ -111,3 +111,13 @@
  
 // Implementation goes here
 
+/**
+ * database JavaScript file
+ * Created on: 2021-02-02
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
