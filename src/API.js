@@ -52,3 +52,13 @@
 
 // Added core functionality on 2020-06-30
 // Implementing essential features
+/**
+ * API JavaScript file
+ * Created on: 2021-02-02
+ * Author: Nasserxx
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
