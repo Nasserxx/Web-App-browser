@@ -50,3 +50,13 @@
  
 // Implementation goes here
 
+/**
+ * frontend Code file
+ * Created on: 2021-02-04
+ * Author: Nasserxx
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
