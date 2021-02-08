@@ -57,3 +57,13 @@
 
 // Added core functionality on 2020-09-01
 // Implementing essential features
+/**
+ * auth JavaScript file
+ * Created on: 2021-02-08
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
