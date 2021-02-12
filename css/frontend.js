@@ -21,3 +21,13 @@
 // css/frontend.js - Created on 2020-10-12
 
 // Implementation
+/**
+ * frontend JavaScript file
+ * Created on: 2021-02-12
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
