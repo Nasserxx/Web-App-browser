@@ -14,3 +14,6 @@
 // docs/UI.js - Created on 2020-11-12
 
 // Implementation
+
+// Added core functionality on 2021-02-17
+// Implementing essential features
