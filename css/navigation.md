@@ -4,3 +4,6 @@
 // css/navigation.md - Created on 2020-11-19
 
 // Implementation
+
+// Added core functionality on 2021-02-18
+// Implementing essential features
