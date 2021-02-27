@@ -100,3 +100,13 @@
 
 // Added profile feature on 2023-08-20
 // Enhancing user experience
+/**
+ * navigation JavaScript file
+ * Created on: 2021-02-27
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
