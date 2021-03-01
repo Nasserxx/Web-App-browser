@@ -58,3 +58,13 @@
  
 // Implementation goes here
 
+/**
+ * config JavaScript file
+ * Created on: 2021-03-01
+ * Author: Nasserxx
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
