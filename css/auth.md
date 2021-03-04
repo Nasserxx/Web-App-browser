@@ -136,3 +136,13 @@
  
 // Implementation goes here
 
+/**
+ * auth Code file
+ * Created on: 2021-03-04
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
