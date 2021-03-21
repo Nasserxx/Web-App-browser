@@ -26,3 +26,6 @@
 
 // Fixed issues on 2024-03-14
 // Improving stability and performance
+
+// Added core functionality on 2021-03-21
+// Implementing essential features
