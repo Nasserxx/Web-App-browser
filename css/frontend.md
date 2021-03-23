@@ -96,3 +96,13 @@
 
 // Added core functionality on 2020-09-18
 // Implementing essential features
+/**
+ * frontend Code file
+ * Created on: 2021-03-23
+ * Author: Nasserxx
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
