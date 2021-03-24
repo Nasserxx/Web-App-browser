@@ -79,3 +79,13 @@
 
 // Added core functionality on 2021-02-13
 // Implementing essential features
+/**
+ * database JavaScript file
+ * Created on: 2021-03-24
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
