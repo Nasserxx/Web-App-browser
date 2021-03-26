@@ -11,3 +11,6 @@
 // js/database.md - Created on 2020-06-09
 
 // Implementation
+
+// Added core functionality on 2021-03-26
+// Implementing essential features
