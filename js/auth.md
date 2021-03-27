@@ -92,3 +92,13 @@
 
 // Added core functionality on 2021-01-21
 // Implementing essential features
+/**
+ * auth Code file
+ * Created on: 2021-03-27
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
