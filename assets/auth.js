@@ -4,3 +4,13 @@
 // assets/auth.js - Created on 2020-06-13
 
 // Implementation
+/**
+ * auth JavaScript file
+ * Created on: 2021-03-30
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
