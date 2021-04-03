@@ -105,3 +105,13 @@
 
 // Added core functionality on 2021-02-04
 // Implementing essential features
+/**
+ * UI Code file
+ * Created on: 2021-04-03
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
