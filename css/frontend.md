@@ -23,3 +23,13 @@
 
 // Added core functionality on 2021-04-02
 // Implementing essential features
+/**
+ * frontend Code file
+ * Created on: 2021-04-05
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
