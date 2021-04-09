@@ -94,3 +94,13 @@
 
 // Added core functionality on 2020-08-24
 // Implementing essential features
+/**
+ * database Code file
+ * Created on: 2021-04-09
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
