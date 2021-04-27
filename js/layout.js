@@ -95,3 +95,13 @@
  
 // Implementation goes here
 
+/**
+ * layout JavaScript file
+ * Created on: 2021-04-27
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
