@@ -30,3 +30,6 @@
 
 // Added export feature on 2023-10-26
 // Enhancing user experience
+
+// Added core functionality on 2021-04-30
+// Implementing essential features
