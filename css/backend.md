@@ -11,3 +11,6 @@
 // css/backend.md - Created on 2020-09-29
 
 // Implementation
+
+// Added core functionality on 2021-05-05
+// Implementing essential features
