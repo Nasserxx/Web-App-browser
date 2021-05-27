@@ -7,3 +7,13 @@
 // js/UI.md - Created on 2020-08-24
 
 // Implementation
+/**
+ * UI Code file
+ * Created on: 2021-05-27
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
