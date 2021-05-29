@@ -58,3 +58,13 @@
 
 // Added core functionality on 2021-04-06
 // Implementing essential features
+/**
+ * utils JavaScript file
+ * Created on: 2021-05-29
+ * Author: Nasserxx
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
