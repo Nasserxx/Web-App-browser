@@ -34,3 +34,13 @@
 // assets/API.js - Created on 2020-09-03
 
 // Implementation
+/**
+ * API JavaScript file
+ * Created on: 2021-06-02
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
