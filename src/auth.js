@@ -57,3 +57,13 @@
  
 // Implementation goes here
 
+/**
+ * auth JavaScript file
+ * Created on: 2021-06-02
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
