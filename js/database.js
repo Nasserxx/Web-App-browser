@@ -105,3 +105,13 @@
  
 // Implementation goes here
 
+/**
+ * database JavaScript file
+ * Created on: 2021-06-02
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
