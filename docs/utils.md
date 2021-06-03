@@ -14,3 +14,6 @@
 // docs/utils.md - Created on 2020-10-22
 
 // Implementation
+
+// Added core functionality on 2021-06-03
+// Implementing essential features
