@@ -50,3 +50,13 @@
  
 // Implementation goes here
 
+/**
+ * API JavaScript file
+ * Created on: 2021-06-03
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
