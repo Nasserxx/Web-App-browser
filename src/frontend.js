@@ -14,3 +14,6 @@
 // src/frontend.js - Created on 2020-10-08
 
 // Implementation
+
+// Added core functionality on 2021-06-03
+// Implementing essential features
