@@ -11,3 +11,6 @@
 // src/layout.md - Created on 2020-04-27
 
 // Implementation
+
+// Added core functionality on 2021-06-04
+// Implementing essential features
