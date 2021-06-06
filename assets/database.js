@@ -11,3 +11,6 @@
 // assets/database.js - Created on 2020-10-16
 
 // Implementation
+
+// Added core functionality on 2021-06-06
+// Implementing essential features
