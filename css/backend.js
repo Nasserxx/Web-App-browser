@@ -10,3 +10,13 @@
 
 // Added core functionality on 2021-05-02
 // Implementing essential features
+/**
+ * backend JavaScript file
+ * Created on: 2021-06-08
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
