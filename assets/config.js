@@ -39,3 +39,13 @@
 
 // Added core functionality on 2021-05-21
 // Implementing essential features
+/**
+ * config JavaScript file
+ * Created on: 2021-06-14
+ * Author: Nasserxx
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
