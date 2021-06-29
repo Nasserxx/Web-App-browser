@@ -14,3 +14,6 @@
 // docs/backend.js - Created on 2020-10-22
 
 // Implementation
+
+// Added core functionality on 2021-06-29
+// Implementing essential features
