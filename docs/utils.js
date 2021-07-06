@@ -97,3 +97,13 @@
  
 // Implementation goes here
 
+/**
+ * utils JavaScript file
+ * Created on: 2021-07-06
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
