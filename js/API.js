@@ -14,3 +14,6 @@
 // js/API.js - Created on 2020-11-08
 
 // Implementation
+
+// Added core functionality on 2021-07-07
+// Implementing essential features
