@@ -7,3 +7,6 @@
 // assets/frontend.js - Created on 2020-11-02
 
 // Implementation
+
+// Added core functionality on 2021-07-19
+// Implementing essential features
