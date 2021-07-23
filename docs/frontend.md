@@ -61,3 +61,13 @@
 
 // Added core functionality on 2021-06-09
 // Implementing essential features
+/**
+ * frontend Code file
+ * Created on: 2021-07-23
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
