@@ -106,3 +106,13 @@
 
 // Added core functionality on 2021-07-07
 // Implementing essential features
+/**
+ * backend JavaScript file
+ * Created on: 2021-07-25
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
