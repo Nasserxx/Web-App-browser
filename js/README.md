@@ -22,3 +22,6 @@ This directory contains files related to js functionality.
 
 // Added core functionality on 2021-04-15
 // Implementing essential features
+
+// Added core functionality on 2021-07-31
+// Implementing essential features
