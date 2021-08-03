@@ -114,3 +114,13 @@
 
 // Added core functionality on 2021-04-08
 // Implementing essential features
+/**
+ * config JavaScript file
+ * Created on: 2021-08-03
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
