@@ -110,3 +110,13 @@
  
 // Implementation goes here
 
+/**
+ * navigation JavaScript file
+ * Created on: 2021-08-09
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
