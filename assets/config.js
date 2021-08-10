@@ -14,3 +14,13 @@
 
 // Added core functionality on 2020-12-22
 // Implementing essential features
+/**
+ * config JavaScript file
+ * Created on: 2021-08-10
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
