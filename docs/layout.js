@@ -46,3 +46,13 @@
 
 // Added core functionality on 2021-06-21
 // Implementing essential features
+/**
+ * layout JavaScript file
+ * Created on: 2021-08-11
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
