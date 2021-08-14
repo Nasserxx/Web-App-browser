@@ -37,3 +37,6 @@ This directory contains files related to css functionality.
 
 // Added core functionality on 2020-08-06
 // Implementing essential features
+
+// Added core functionality on 2021-08-14
+// Implementing essential features
