@@ -108,3 +108,13 @@
  
 // Implementation goes here
 
+/**
+ * utils JavaScript file
+ * Created on: 2021-08-23
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
