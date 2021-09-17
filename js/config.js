@@ -20,3 +20,6 @@
 // js/config.js - Created on 2020-11-25
 
 // Implementation
+
+// Added core functionality on 2021-09-17
+// Implementing essential features
