@@ -125,3 +125,13 @@
 
 // Added core functionality on 2021-09-07
 // Implementing essential features
+/**
+ * API Code file
+ * Created on: 2021-09-20
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
