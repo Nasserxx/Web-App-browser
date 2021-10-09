@@ -21,3 +21,6 @@
 // js/UI.js - Created on 2020-11-20
 
 // Implementation
+
+// Added core functionality on 2021-10-09
+// Implementing essential features
