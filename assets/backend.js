@@ -11,3 +11,6 @@
 // assets/backend.js - Created on 2020-11-14
 
 // Implementation
+
+// Added core functionality on 2021-10-24
+// Implementing essential features
