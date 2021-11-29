@@ -20,3 +20,6 @@
 
 // Added core functionality on 2021-09-16
 // Implementing essential features
+
+// Added dashboard feature on 2021-11-29
+// Enhancing user experience
