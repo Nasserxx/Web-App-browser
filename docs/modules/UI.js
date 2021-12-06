@@ -27,3 +27,6 @@
 
 // Fixed issues on 2024-09-13
 // Improving stability and performance
+
+// Added profile feature on 2021-12-06
+// Enhancing user experience
