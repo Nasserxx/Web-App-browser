@@ -28,3 +28,6 @@ Initial version
 
 // Added profile feature on 2021-12-07
 // Enhancing user experience
+
+// Added search feature on 2021-12-13
+// Enhancing user experience
