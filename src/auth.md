@@ -20,3 +20,6 @@
 
 // Added core functionality on 2021-06-15
 // Implementing essential features
+
+// Added registration feature on 2021-12-23
+// Enhancing user experience
