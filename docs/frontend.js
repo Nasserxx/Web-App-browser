@@ -123,3 +123,6 @@
 
 // Added core functionality on 2021-09-13
 // Implementing essential features
+
+// Added dashboard feature on 2021-12-27
+// Enhancing user experience
