@@ -20,3 +20,6 @@
 
 // Added core functionality on 2020-12-02
 // Implementing essential features
+
+// Added import feature on 2022-01-14
+// Enhancing user experience
