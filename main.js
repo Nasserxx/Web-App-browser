@@ -7,3 +7,6 @@ Initial version
 
 // Added profile feature on 2021-12-02
 // Enhancing user experience
+
+// Added import feature on 2022-01-17
+// Enhancing user experience
