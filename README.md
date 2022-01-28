@@ -49,3 +49,6 @@ Initial version
 
 // Added settings feature on 2021-12-22
 // Enhancing user experience
+
+// Added export feature on 2022-01-28
+// Enhancing user experience
