@@ -31,3 +31,6 @@ Initial version
 
 // Added search feature on 2021-12-13
 // Enhancing user experience
+
+// Added search feature on 2022-02-01
+// Enhancing user experience
