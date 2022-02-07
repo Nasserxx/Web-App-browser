@@ -10,3 +10,6 @@ This directory contains files related to docs functionality.
 
 // Added core functionality on 2021-10-27
 // Implementing essential features
+
+// Added pagination feature on 2022-02-07
+// Enhancing user experience
