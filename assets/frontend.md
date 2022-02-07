@@ -24,3 +24,13 @@
 
 // Added profile feature on 2021-11-23
 // Enhancing user experience
+/**
+ * frontend Code file
+ * Created on: 2022-02-07
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
