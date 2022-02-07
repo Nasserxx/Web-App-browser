@@ -62,3 +62,6 @@
 
 // Added import feature on 2022-02-03
 // Enhancing user experience
+
+// Added dashboard feature on 2022-02-07
+// Enhancing user experience
