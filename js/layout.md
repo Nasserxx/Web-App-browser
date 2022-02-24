@@ -26,3 +26,6 @@
 
 // Added dashboard feature on 2022-02-02
 // Enhancing user experience
+
+// Added pagination feature on 2022-02-24
+// Enhancing user experience
