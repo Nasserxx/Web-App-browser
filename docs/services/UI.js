@@ -23,3 +23,6 @@
 
 // Added search feature on 2021-12-21
 // Enhancing user experience
+
+// Added profile feature on 2022-03-01
+// Enhancing user experience
