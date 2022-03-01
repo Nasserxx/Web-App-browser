@@ -19,3 +19,13 @@
 
 // Added export feature on 2022-01-04
 // Enhancing user experience
+/**
+ * layout JavaScript file
+ * Created on: 2022-03-01
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
