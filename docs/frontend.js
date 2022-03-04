@@ -153,3 +153,6 @@
 
 // Added core functionality on 2021-03-12
 // Implementing essential features
+
+// Added search feature on 2022-03-04
+// Enhancing user experience
