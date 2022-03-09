@@ -69,3 +69,13 @@
  
 // Implementation goes here
 
+/**
+ * API JavaScript file
+ * Created on: 2022-03-09
+ * Author: Nasserxx
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
