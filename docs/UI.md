@@ -68,3 +68,13 @@
 
 // Added core functionality on 2020-11-25
 // Implementing essential features
+/**
+ * UI Code file
+ * Created on: 2022-03-13
+ * Author: Nasserxx
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
