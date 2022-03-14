@@ -20,3 +20,6 @@
 
 // Added registration feature on 2021-11-19
 // Enhancing user experience
+
+// Added profile feature on 2022-03-14
+// Enhancing user experience
