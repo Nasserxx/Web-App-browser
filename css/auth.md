@@ -38,3 +38,13 @@
 
 // Added login feature on 2021-12-31
 // Enhancing user experience
+/**
+ * auth Code file
+ * Created on: 2022-03-20
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
