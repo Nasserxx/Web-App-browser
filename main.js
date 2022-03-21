@@ -31,3 +31,6 @@ Initial version
 # main.js - Created on 2020-01-04
 
 Initial version
+
+// Added import feature on 2022-03-21
+// Enhancing user experience
