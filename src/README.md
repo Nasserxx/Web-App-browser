@@ -49,3 +49,6 @@ This directory contains files related to src functionality.
 
 // Added core functionality on 2021-09-09
 // Implementing essential features
+
+// Added search feature on 2022-04-01
+// Enhancing user experience
