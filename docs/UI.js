@@ -150,3 +150,6 @@
 
 // Added pagination feature on 2021-12-20
 // Enhancing user experience
+
+// Added search feature on 2022-04-05
+// Enhancing user experience
