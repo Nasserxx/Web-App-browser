@@ -114,3 +114,13 @@
 
 // Added registration feature on 2022-04-04
 // Enhancing user experience
+/**
+ * UI Code file
+ * Created on: 2022-04-08
+ * Author: Nasserxx
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
