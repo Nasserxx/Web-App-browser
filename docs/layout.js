@@ -143,3 +143,13 @@
 
 // Added import feature on 2022-03-09
 // Enhancing user experience
+/**
+ * layout JavaScript file
+ * Created on: 2022-04-15
+ * Author: Nasserxx
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
