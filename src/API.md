@@ -87,3 +87,6 @@
 
 // Updated on 2024-10-06
 // Maintenance and minor improvements
+
+// Added dashboard feature on 2022-04-28
+// Enhancing user experience
