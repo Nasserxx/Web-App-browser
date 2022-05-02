@@ -71,3 +71,13 @@
  
 // Implementation goes here
 
+/**
+ * frontend Code file
+ * Created on: 2022-05-02
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
