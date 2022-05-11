@@ -57,3 +57,6 @@
 
 // Added profile feature on 2022-01-27
 // Enhancing user experience
+
+// Added search feature on 2022-05-11
+// Enhancing user experience
