@@ -26,3 +26,6 @@
 
 // Added import feature on 2021-12-13
 // Enhancing user experience
+
+// Added profile feature on 2022-05-19
+// Enhancing user experience
