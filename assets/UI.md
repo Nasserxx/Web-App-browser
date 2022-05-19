@@ -124,3 +124,6 @@
  
 // Implementation goes here
 
+
+// Added settings feature on 2022-05-19
+// Enhancing user experience
