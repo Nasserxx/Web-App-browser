@@ -120,3 +120,6 @@
 
 // Added profile feature on 2022-01-05
 // Enhancing user experience
+
+// Added pagination feature on 2022-05-24
+// Enhancing user experience
