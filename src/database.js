@@ -50,3 +50,6 @@
 
 // Added profile feature on 2021-11-22
 // Enhancing user experience
+
+// Added registration feature on 2022-05-26
+// Enhancing user experience
