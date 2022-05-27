@@ -121,3 +121,6 @@
 
 // Added login feature on 2021-12-21
 // Enhancing user experience
+
+// Added registration feature on 2022-05-27
+// Enhancing user experience
