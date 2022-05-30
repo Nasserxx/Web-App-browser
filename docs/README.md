@@ -13,3 +13,6 @@ This directory contains files related to docs functionality.
 
 // Added pagination feature on 2022-02-07
 // Enhancing user experience
+
+// Added profile feature on 2022-05-30
+// Enhancing user experience
