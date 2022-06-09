@@ -84,3 +84,13 @@
  
 // Implementation goes here
 
+/**
+ * navigation JavaScript file
+ * Created on: 2022-06-09
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
