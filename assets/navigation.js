@@ -83,3 +83,6 @@
 
 // Added import feature on 2022-02-28
 // Enhancing user experience
+
+// Added search feature on 2022-06-09
+// Enhancing user experience
