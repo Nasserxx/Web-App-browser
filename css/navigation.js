@@ -81,3 +81,13 @@
 
 // Added import feature on 2022-05-19
 // Enhancing user experience
+/**
+ * navigation JavaScript file
+ * Created on: 2022-06-14
+ * Author: Nasserxx
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
