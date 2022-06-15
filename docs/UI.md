@@ -23,3 +23,13 @@
 
 // Added settings feature on 2022-03-15
 // Enhancing user experience
+/**
+ * UI Code file
+ * Created on: 2022-06-15
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
