@@ -47,3 +47,6 @@
 
 // Added pagination feature on 2021-11-06
 // Enhancing user experience
+
+// Added registration feature on 2022-06-27
+// Enhancing user experience
