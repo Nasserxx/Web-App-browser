@@ -11,3 +11,13 @@
 
 // Added export feature on 2022-02-02
 // Enhancing user experience
+/**
+ * auth Code file
+ * Created on: 2022-07-09
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
