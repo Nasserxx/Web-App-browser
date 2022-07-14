@@ -82,3 +82,13 @@
 
 // Added settings feature on 2022-06-10
 // Enhancing user experience
+/**
+ * API JavaScript file
+ * Created on: 2022-07-14
+ * Author: Nasserxx
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
