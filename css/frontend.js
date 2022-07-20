@@ -146,3 +146,13 @@
 
 // Added profile feature on 2022-01-19
 // Enhancing user experience
+/**
+ * frontend JavaScript file
+ * Created on: 2022-07-20
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
