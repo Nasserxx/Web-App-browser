@@ -163,3 +163,6 @@
  
 // Implementation goes here
 
+
+// Added registration feature on 2022-07-20
+// Enhancing user experience
