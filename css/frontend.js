@@ -40,3 +40,6 @@
 
 // Added pagination feature on 2022-06-03
 // Enhancing user experience
+
+// Added import feature on 2022-08-04
+// Enhancing user experience
