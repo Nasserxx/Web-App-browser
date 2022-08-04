@@ -105,3 +105,13 @@
 
 // Added settings feature on 2022-03-08
 // Enhancing user experience
+/**
+ * utils Code file
+ * Created on: 2022-08-04
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
