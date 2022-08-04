@@ -48,3 +48,6 @@
  
 // Implementation goes here
 
+
+// Added settings feature on 2022-08-04
+// Enhancing user experience
