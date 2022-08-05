@@ -105,3 +105,6 @@
 
 // Added import feature on 2022-04-01
 // Enhancing user experience
+
+// Added settings feature on 2022-08-05
+// Enhancing user experience
