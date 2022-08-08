@@ -30,3 +30,6 @@
 
 // Added export feature on 2021-12-09
 // Enhancing user experience
+
+// Added profile feature on 2022-08-08
+// Enhancing user experience
