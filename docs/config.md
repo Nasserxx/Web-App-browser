@@ -131,3 +131,6 @@
 
 // Added settings feature on 2022-02-22
 // Enhancing user experience
+
+// Added login feature on 2022-08-08
+// Enhancing user experience
