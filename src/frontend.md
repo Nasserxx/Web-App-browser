@@ -62,3 +62,6 @@
 
 // Added export feature on 2022-05-09
 // Enhancing user experience
+
+// Added import feature on 2022-08-11
+// Enhancing user experience
