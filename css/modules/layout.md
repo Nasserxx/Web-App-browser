@@ -23,3 +23,13 @@
 
 // Added registration feature on 2022-07-14
 // Enhancing user experience
+/**
+ * layout Code file
+ * Created on: 2022-08-24
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
