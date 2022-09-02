@@ -83,3 +83,6 @@
 
 // Added export feature on 2022-05-30
 // Enhancing user experience
+
+// Added dashboard feature on 2022-09-02
+// Enhancing user experience
