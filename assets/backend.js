@@ -75,3 +75,6 @@
 
 // Added registration feature on 2022-05-04
 // Enhancing user experience
+
+// Added import feature on 2022-09-06
+// Enhancing user experience
