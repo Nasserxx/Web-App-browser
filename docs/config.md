@@ -76,3 +76,6 @@
 
 // Added settings feature on 2022-08-31
 // Enhancing user experience
+
+// Added profile feature on 2022-09-09
+// Enhancing user experience
