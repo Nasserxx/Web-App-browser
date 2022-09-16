@@ -23,3 +23,13 @@
 
 // Added search feature on 2022-01-20
 // Enhancing user experience
+/**
+ * config JavaScript file
+ * Created on: 2022-09-16
+ * Author: Nasserxx
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
