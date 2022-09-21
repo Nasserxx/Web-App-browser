@@ -122,3 +122,6 @@
 
 // Added search feature on 2022-03-09
 // Enhancing user experience
+
+// Added pagination feature on 2022-09-22
+// Enhancing user experience
