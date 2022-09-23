@@ -54,3 +54,13 @@
 
 // Added login feature on 2022-08-06
 // Enhancing user experience
+/**
+ * auth Code file
+ * Created on: 2022-09-23
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
