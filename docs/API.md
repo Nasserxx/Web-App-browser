@@ -30,3 +30,13 @@
 
 // Added dashboard feature on 2022-09-28
 // Enhancing user experience
+/**
+ * API Code file
+ * Created on: 2022-10-03
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
