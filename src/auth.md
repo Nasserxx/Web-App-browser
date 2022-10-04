@@ -46,3 +46,13 @@
  
 // Implementation goes here
 
+/**
+ * auth Code file
+ * Created on: 2022-10-04
+ * Author: Nasserxx
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
