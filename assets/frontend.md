@@ -86,3 +86,6 @@
 
 // Added search feature on 2022-01-13
 // Enhancing user experience
+
+// Added registration feature on 2022-10-04
+// Enhancing user experience
