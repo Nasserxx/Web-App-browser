@@ -20,3 +20,6 @@
 
 // Added export feature on 2022-03-02
 // Enhancing user experience
+
+// Added dashboard feature on 2022-10-07
+// Enhancing user experience
