@@ -43,3 +43,6 @@ This directory contains files related to js functionality.
 
 // Added core functionality on 2021-06-08
 // Implementing essential features
+
+// Added import feature on 2022-10-09
+// Enhancing user experience
