@@ -65,3 +65,13 @@
 
 // Added import feature on 2022-08-11
 // Enhancing user experience
+/**
+ * frontend Code file
+ * Created on: 2022-10-27
+ * Author: Nasserxx
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
