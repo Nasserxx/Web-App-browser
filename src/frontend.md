@@ -78,3 +78,13 @@
 
 // Added settings feature on 2022-11-21
 // Enhancing user experience
+/**
+ * frontend Code file
+ * Created on: 2022-11-03
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
