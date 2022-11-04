@@ -32,3 +32,6 @@
 
 // Added core functionality on 2020-10-22
 // Implementing essential features
+
+// Added profile feature on 2022-11-04
+// Enhancing user experience
