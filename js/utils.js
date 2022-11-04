@@ -62,3 +62,13 @@
 
 // Added core functionality on 2021-07-26
 // Implementing essential features
+/**
+ * utils JavaScript file
+ * Created on: 2022-11-04
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
