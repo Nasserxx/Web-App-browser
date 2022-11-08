@@ -44,3 +44,6 @@
 
 // Added settings feature on 2022-09-23
 // Enhancing user experience
+
+// Added search feature on 2022-11-08
+// Enhancing user experience
