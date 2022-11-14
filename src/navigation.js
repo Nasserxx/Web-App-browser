@@ -53,3 +53,6 @@
 
 // Added profile feature on 2021-12-24
 // Enhancing user experience
+
+// Added registration feature on 2022-11-14
+// Enhancing user experience
