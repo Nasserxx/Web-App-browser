@@ -29,3 +29,6 @@
 
 // Added import feature on 2022-04-18
 // Enhancing user experience
+
+// Added search feature on 2022-11-16
+// Enhancing user experience
