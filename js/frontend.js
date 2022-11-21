@@ -63,3 +63,13 @@
 
 // Added settings feature on 2022-11-04
 // Enhancing user experience
+/**
+ * frontend JavaScript file
+ * Created on: 2022-11-21
+ * Author: Nasserxx
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
