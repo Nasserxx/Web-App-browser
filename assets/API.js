@@ -60,3 +60,6 @@
 
 // Added search feature on 2022-05-11
 // Enhancing user experience
+
+// Added profile feature on 2022-11-25
+// Enhancing user experience
