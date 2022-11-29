@@ -104,3 +104,6 @@
 
 // Added login feature on 2022-03-29
 // Enhancing user experience
+
+// Added registration feature on 2022-11-29
+// Enhancing user experience
