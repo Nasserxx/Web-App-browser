@@ -115,3 +115,6 @@
 
 // Added settings feature on 2022-08-02
 // Enhancing user experience
+
+// Added dashboard feature on 2022-12-04
+// Enhancing user experience
