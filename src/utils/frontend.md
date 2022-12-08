@@ -17,3 +17,13 @@
 
 // Added login feature on 2022-06-19
 // Enhancing user experience
+/**
+ * frontend Code file
+ * Created on: 2022-12-08
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
