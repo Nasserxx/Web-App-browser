@@ -51,3 +51,13 @@
 
 // Added pagination feature on 2022-08-02
 // Enhancing user experience
+/**
+ * database Code file
+ * Created on: 2022-12-08
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
