@@ -32,3 +32,6 @@
 
 // Added login feature on 2022-07-21
 // Enhancing user experience
+
+// Added pagination feature on 2022-12-09
+// Enhancing user experience
