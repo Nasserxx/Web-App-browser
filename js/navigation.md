@@ -65,3 +65,6 @@
 
 // Added core functionality on 2020-11-20
 // Implementing essential features
+
+// Added pagination feature on 2022-12-16
+// Enhancing user experience
