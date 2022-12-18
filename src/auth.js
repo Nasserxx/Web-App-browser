@@ -118,3 +118,13 @@
 
 // Added dashboard feature on 2022-12-04
 // Enhancing user experience
+/**
+ * auth JavaScript file
+ * Created on: 2022-12-18
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
