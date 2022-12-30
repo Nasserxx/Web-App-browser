@@ -108,3 +108,6 @@
 
 // Added export feature on 2022-08-02
 // Enhancing user experience
+
+// Added pagination feature on 2022-12-30
+// Enhancing user experience
