@@ -18,3 +18,13 @@
  
 // Implementation goes here
 
+/**
+ * auth JavaScript file
+ * Created on: 2023-01-02
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
