@@ -16,3 +16,6 @@ This directory contains files related to docs functionality.
 
 // Added profile feature on 2022-05-30
 // Enhancing user experience
+
+// Added import feature on 2023-01-09
+// Enhancing user experience
