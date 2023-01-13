@@ -52,3 +52,6 @@ Initial version
 
 // Added export feature on 2022-01-28
 // Enhancing user experience
+
+// Added profile feature on 2023-01-13
+// Enhancing user experience
