@@ -30,3 +30,13 @@
 
 // Added dashboard feature on 2022-10-18
 // Enhancing user experience
+/**
+ * UI Code file
+ * Created on: 2023-01-20
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
