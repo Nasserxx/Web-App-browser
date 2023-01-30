@@ -37,3 +37,6 @@ This directory contains files related to docs functionality.
 
 // Added core functionality on 2020-11-10
 // Implementing essential features
+
+// Added profile feature on 2023-01-30
+// Enhancing user experience
