@@ -38,3 +38,13 @@
 
 // Added search feature on 2023-01-25
 // Enhancing user experience
+/**
+ * backend JavaScript file
+ * Created on: 2023-02-15
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
