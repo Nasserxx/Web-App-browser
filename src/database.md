@@ -14,3 +14,6 @@
 
 // Added search feature on 2022-08-22
 // Enhancing user experience
+
+// Added pagination feature on 2023-02-15
+// Enhancing user experience
