@@ -76,3 +76,6 @@
 
 // Added profile feature on 2022-03-31
 // Enhancing user experience
+
+// Added pagination feature on 2023-02-19
+// Enhancing user experience
