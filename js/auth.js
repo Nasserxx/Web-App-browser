@@ -58,3 +58,13 @@
 
 // Added registration feature on 2022-11-13
 // Enhancing user experience
+/**
+ * auth JavaScript file
+ * Created on: 2023-02-20
+ * Author: Nasserxx
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
