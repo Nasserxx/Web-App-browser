@@ -125,3 +125,13 @@
 
 // Added pagination feature on 2022-09-22
 // Enhancing user experience
+/**
+ * database Code file
+ * Created on: 2023-02-22
+ * Author: Nasserxx
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
