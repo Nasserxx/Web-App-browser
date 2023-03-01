@@ -71,3 +71,6 @@
 
 // Added dashboard feature on 2022-03-24
 // Enhancing user experience
+
+// Added settings feature on 2023-03-01
+// Enhancing user experience
