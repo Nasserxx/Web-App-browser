@@ -104,3 +104,13 @@
 
 // Added profile feature on 2022-07-25
 // Enhancing user experience
+/**
+ * auth Code file
+ * Created on: 2023-03-08
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
