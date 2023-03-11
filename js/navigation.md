@@ -13,3 +13,6 @@
 
 // Added import feature on 2022-11-24
 // Enhancing user experience
+
+// Added registration feature on 2023-03-11
+// Enhancing user experience
