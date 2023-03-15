@@ -27,3 +27,6 @@
 
 // Added export feature on 2023-03-11
 // Enhancing user experience
+
+// Added pagination feature on 2023-03-15
+// Enhancing user experience
