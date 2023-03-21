@@ -144,3 +144,13 @@
 
 // Added registration feature on 2022-08-29
 // Enhancing user experience
+/**
+ * API JavaScript file
+ * Created on: 2023-03-21
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
