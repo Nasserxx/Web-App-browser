@@ -148,3 +148,13 @@
  
 // Implementation goes here
 
+/**
+ * auth Code file
+ * Created on: 2023-04-04
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
