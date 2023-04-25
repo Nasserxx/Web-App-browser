@@ -58,3 +58,6 @@
 
 // Added settings feature on 2022-12-22
 // Enhancing user experience
+
+// Added registration feature on 2023-04-25
+// Enhancing user experience
