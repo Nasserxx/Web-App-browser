@@ -36,3 +36,13 @@
 
 // Added search feature on 2022-11-20
 // Enhancing user experience
+/**
+ * API JavaScript file
+ * Created on: 2023-04-25
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
