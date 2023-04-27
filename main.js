@@ -34,3 +34,6 @@ Initial version
 
 // Added import feature on 2022-03-21
 // Enhancing user experience
+
+// Added dashboard feature on 2023-04-27
+// Enhancing user experience
