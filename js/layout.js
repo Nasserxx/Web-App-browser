@@ -121,3 +121,6 @@
 
 // Added login feature on 2023-03-01
 // Enhancing user experience
+
+// Added search feature on 2023-05-02
+// Enhancing user experience
