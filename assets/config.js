@@ -85,3 +85,13 @@
  
 // Implementation goes here
 
+/**
+ * config JavaScript file
+ * Created on: 2023-05-22
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
