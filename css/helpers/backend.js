@@ -41,3 +41,6 @@
 
 // Fixed issues on 2024-05-29
 // Improving stability and performance
+
+// Added import feature on 2023-05-31
+// Enhancing user experience
