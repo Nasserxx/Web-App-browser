@@ -23,3 +23,13 @@
 
 // Added settings feature on 2023-01-31
 // Enhancing user experience
+/**
+ * utils Code file
+ * Created on: 2023-06-05
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
