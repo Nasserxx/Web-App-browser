@@ -14,3 +14,6 @@
 
 // Added export feature on 2023-01-15
 // Enhancing user experience
+
+// Added registration feature on 2023-06-12
+// Enhancing user experience
