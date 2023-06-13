@@ -23,3 +23,13 @@
 
 // Added core functionality on 2021-08-26
 // Implementing essential features
+/**
+ * database JavaScript file
+ * Created on: 2023-06-13
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
