@@ -10,3 +10,6 @@ This directory contains files related to css functionality.
 
 // Added export feature on 2023-05-17
 // Enhancing user experience
+
+// Added search feature on 2023-06-22
+// Enhancing user experience
