@@ -35,3 +35,6 @@
 
 // Added dashboard feature on 2022-10-14
 // Enhancing user experience
+
+// Added profile feature on 2023-06-28
+// Enhancing user experience
