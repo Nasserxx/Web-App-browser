@@ -122,3 +122,13 @@
 
 // Added pagination feature on 2022-05-24
 // Enhancing user experience
+/**
+ * frontend Code file
+ * Created on: 2023-07-07
+ * Author: Nasserxx
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
