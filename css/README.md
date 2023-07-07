@@ -40,3 +40,6 @@ This directory contains files related to css functionality.
 
 // Added core functionality on 2021-08-14
 // Implementing essential features
+
+// Added login feature on 2023-07-07
+// Enhancing user experience
