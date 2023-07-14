@@ -52,3 +52,6 @@ This directory contains files related to src functionality.
 
 // Added search feature on 2022-04-01
 // Enhancing user experience
+
+// Added settings feature on 2023-07-14
+// Enhancing user experience
