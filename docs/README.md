@@ -40,3 +40,6 @@ This directory contains files related to docs functionality.
 
 // Added profile feature on 2023-01-30
 // Enhancing user experience
+
+// Added login feature on 2023-07-14
+// Enhancing user experience
