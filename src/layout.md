@@ -26,3 +26,13 @@
 
 // Added search feature on 2022-10-14
 // Enhancing user experience
+/**
+ * layout Code file
+ * Created on: 2023-07-21
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
