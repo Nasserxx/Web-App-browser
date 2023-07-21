@@ -7,3 +7,13 @@
 
 // Added login feature on 2022-11-11
 // Enhancing user experience
+/**
+ * UI JavaScript file
+ * Created on: 2023-07-21
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
