@@ -36,3 +36,6 @@
 
 // Added login feature on 2022-12-28
 // Enhancing user experience
+
+// Added profile feature on 2023-07-22
+// Enhancing user experience
