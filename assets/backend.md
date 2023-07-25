@@ -56,3 +56,6 @@
 
 // Added dashboard feature on 2023-01-04
 // Enhancing user experience
+
+// Added registration feature on 2023-07-25
+// Enhancing user experience
