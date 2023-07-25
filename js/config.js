@@ -117,3 +117,13 @@
 
 // Added settings feature on 2023-04-13
 // Enhancing user experience
+/**
+ * config JavaScript file
+ * Created on: 2023-07-26
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
