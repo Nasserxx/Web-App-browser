@@ -117,3 +117,6 @@
 
 // Added settings feature on 2023-07-02
 // Enhancing user experience
+
+// Added settings feature on 2023-08-01
+// Enhancing user experience
