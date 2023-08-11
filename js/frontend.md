@@ -76,3 +76,13 @@
 
 // Added dashboard feature on 2022-10-12
 // Enhancing user experience
+/**
+ * frontend Code file
+ * Created on: 2023-08-11
+ * Author: Nasserxx
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
