@@ -40,3 +40,13 @@
 
 // Added export feature on 2023-05-17
 // Enhancing user experience
+/**
+ * frontend Code file
+ * Created on: 2023-08-12
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
