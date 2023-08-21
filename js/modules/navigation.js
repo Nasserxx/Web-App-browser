@@ -23,3 +23,6 @@
 
 // Added export feature on 2022-05-18
 // Enhancing user experience
+
+// Added search feature on 2023-08-21
+// Enhancing user experience
