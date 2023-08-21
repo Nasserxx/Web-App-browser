@@ -147,3 +147,13 @@
 
 // Added profile feature on 2023-07-22
 // Enhancing user experience
+/**
+ * layout Code file
+ * Created on: 2023-08-21
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
