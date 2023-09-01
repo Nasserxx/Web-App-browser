@@ -17,3 +17,13 @@
 
 // Added pagination feature on 2023-01-17
 // Enhancing user experience
+/**
+ * config JavaScript file
+ * Created on: 2023-09-01
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
