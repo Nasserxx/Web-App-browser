@@ -152,3 +152,6 @@
 
 // Added export feature on 2022-06-02
 // Enhancing user experience
+
+// Added profile feature on 2023-09-11
+// Enhancing user experience
