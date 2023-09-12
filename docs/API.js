@@ -26,3 +26,13 @@
 
 // Added profile feature on 2023-04-02
 // Enhancing user experience
+/**
+ * API JavaScript file
+ * Created on: 2023-09-12
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
