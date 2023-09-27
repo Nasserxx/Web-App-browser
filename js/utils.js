@@ -10,3 +10,6 @@
 
 // Added settings feature on 2022-03-30
 // Enhancing user experience
+
+// Added profile feature on 2023-09-27
+// Enhancing user experience
