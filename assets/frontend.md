@@ -92,3 +92,6 @@
 
 // Added settings feature on 2023-09-26
 // Enhancing user experience
+
+// Added settings feature on 2023-10-06
+// Enhancing user experience
