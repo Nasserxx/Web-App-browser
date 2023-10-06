@@ -160,3 +160,6 @@
 
 // Added pagination feature on 2022-06-20
 // Enhancing user experience
+
+// Added login feature on 2023-10-06
+// Enhancing user experience
