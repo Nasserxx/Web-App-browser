@@ -43,3 +43,6 @@ This directory contains files related to css functionality.
 
 // Added login feature on 2023-07-07
 // Enhancing user experience
+
+// Added search feature on 2023-10-09
+// Enhancing user experience
