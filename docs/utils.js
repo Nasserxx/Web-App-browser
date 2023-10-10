@@ -123,3 +123,13 @@
 
 // Added pagination feature on 2022-05-24
 // Enhancing user experience
+/**
+ * utils JavaScript file
+ * Created on: 2023-10-10
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
