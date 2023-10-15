@@ -65,3 +65,13 @@
 
 // Added registration feature on 2023-04-17
 // Enhancing user experience
+/**
+ * auth Code file
+ * Created on: 2023-10-16
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
