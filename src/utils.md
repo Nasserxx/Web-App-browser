@@ -131,3 +131,13 @@
 
 // Added login feature on 2023-07-15
 // Enhancing user experience
+/**
+ * utils Code file
+ * Created on: 2023-10-25
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
