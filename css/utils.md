@@ -121,3 +121,13 @@
 
 // Added dashboard feature on 2023-07-25
 // Enhancing user experience
+/**
+ * utils Code file
+ * Created on: 2023-11-02
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
