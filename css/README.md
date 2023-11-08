@@ -52,3 +52,6 @@ This directory contains files related to css functionality.
 
 // Added profile feature on 2022-04-19
 // Enhancing user experience
+
+// Added dashboard feature on 2023-11-08
+// Enhancing user experience
