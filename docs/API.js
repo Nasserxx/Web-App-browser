@@ -105,3 +105,13 @@
 
 // Added import feature on 2022-09-09
 // Enhancing user experience
+/**
+ * API JavaScript file
+ * Created on: 2023-11-14
+ * Author: Nasserxx
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
