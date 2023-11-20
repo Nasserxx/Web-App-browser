@@ -13,3 +13,6 @@ Initial version
 
 // Added dashboard feature on 2022-06-19
 // Enhancing user experience
+
+// Added login feature on 2023-11-20
+// Enhancing user experience
