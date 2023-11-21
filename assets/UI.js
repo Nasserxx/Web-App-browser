@@ -95,3 +95,6 @@
 
 // Added search feature on 2022-11-06
 // Enhancing user experience
+
+// Added login feature on 2023-11-21
+// Enhancing user experience
