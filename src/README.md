@@ -16,3 +16,6 @@ This directory contains files related to src functionality.
 
 // Added pagination feature on 2022-08-29
 // Enhancing user experience
+
+// Added settings feature on 2023-11-23
+// Enhancing user experience
