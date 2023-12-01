@@ -63,3 +63,6 @@
 
 // Added dashboard feature on 2023-08-02
 // Enhancing user experience
+
+// Added login feature on 2023-12-01
+// Enhancing user experience
