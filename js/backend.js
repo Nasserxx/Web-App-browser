@@ -113,3 +113,6 @@
 
 // Added search feature on 2023-04-27
 // Enhancing user experience
+
+// Added pagination feature on 2023-12-04
+// Enhancing user experience
