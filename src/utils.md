@@ -76,3 +76,13 @@
 
 // Added settings feature on 2023-11-21
 // Enhancing user experience
+/**
+ * utils Code file
+ * Created on: 2023-12-04
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
