@@ -11,3 +11,6 @@
 
 // Added import feature on 2023-11-23
 // Enhancing user experience
+
+// Added dashboard feature on 2023-12-05
+// Enhancing user experience
