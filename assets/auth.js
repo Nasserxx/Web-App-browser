@@ -48,3 +48,13 @@
 
 // Added search feature on 2023-08-18
 // Enhancing user experience
+/**
+ * auth JavaScript file
+ * Created on: 2023-12-11
+ * Author: Nasserxx
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
