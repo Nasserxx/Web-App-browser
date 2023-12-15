@@ -37,3 +37,6 @@ Initial version
 
 // Added dashboard feature on 2023-04-27
 // Enhancing user experience
+
+// Fixed issues on 2023-12-15
+// Improving stability and performance
