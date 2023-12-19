@@ -91,3 +91,13 @@
 
 // Added dashboard feature on 2023-07-26
 // Enhancing user experience
+/**
+ * config JavaScript file
+ * Created on: 2023-12-19
+ * Author: Nasserxx
+ *
+ * Description: Implementation of config functionality
+ */
+ 
+// Implementation goes here
+
