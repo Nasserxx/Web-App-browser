@@ -8,3 +8,13 @@
  
 // Implementation goes here
 
+/**
+ * UI Code file
+ * Created on: 2023-12-20
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
