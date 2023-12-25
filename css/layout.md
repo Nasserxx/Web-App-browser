@@ -153,3 +153,13 @@
 
 // Added pagination feature on 2023-09-13
 // Enhancing user experience
+/**
+ * layout Code file
+ * Created on: 2023-12-25
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
