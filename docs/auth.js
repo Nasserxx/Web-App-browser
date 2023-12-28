@@ -38,3 +38,6 @@
 
 // Added settings feature on 2023-06-06
 // Enhancing user experience
+
+// Fixed issues on 2023-12-28
+// Improving stability and performance
