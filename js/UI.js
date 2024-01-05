@@ -33,3 +33,13 @@
 
 // Added settings feature on 2023-06-13
 // Enhancing user experience
+/**
+ * UI JavaScript file
+ * Created on: 2024-01-05
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
