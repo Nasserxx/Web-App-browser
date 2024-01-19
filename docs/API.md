@@ -66,3 +66,13 @@
 
 // Added login feature on 2023-12-01
 // Enhancing user experience
+/**
+ * API Code file
+ * Created on: 2024-01-19
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
