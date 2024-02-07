@@ -71,3 +71,13 @@
 
 // Added registration feature on 2023-10-17
 // Enhancing user experience
+/**
+ * layout Code file
+ * Created on: 2024-02-07
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of layout functionality
+ */
+ 
+// Implementation goes here
+
