@@ -34,3 +34,6 @@ This directory contains files related to assets functionality.
 
 // Added core functionality on 2021-09-23
 // Implementing essential features
+
+// Fixed issues on 2024-03-12
+// Improving stability and performance
