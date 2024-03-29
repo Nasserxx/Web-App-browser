@@ -14,3 +14,13 @@
 
 // Added settings feature on 2023-07-05
 // Enhancing user experience
+/**
+ * database Code file
+ * Created on: 2024-03-29
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of database functionality
+ */
+ 
+// Implementation goes here
+
