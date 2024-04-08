@@ -17,3 +17,6 @@
 
 // Added search feature on 2023-09-07
 // Enhancing user experience
+
+// Fixed issues on 2024-04-08
+// Improving stability and performance
