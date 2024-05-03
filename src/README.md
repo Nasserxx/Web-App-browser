@@ -19,3 +19,6 @@ This directory contains files related to src functionality.
 
 // Added settings feature on 2023-11-23
 // Enhancing user experience
+
+// Fixed issues on 2024-05-03
+// Improving stability and performance
