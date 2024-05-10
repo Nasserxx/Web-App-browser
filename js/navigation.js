@@ -45,3 +45,13 @@
 
 // Fixed issues on 2024-04-08
 // Improving stability and performance
+/**
+ * navigation JavaScript file
+ * Created on: 2024-05-10
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
