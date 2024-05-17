@@ -7,3 +7,6 @@
 
 // Added login feature on 2022-12-06
 // Enhancing user experience
+
+// Fixed issues on 2024-05-17
+// Improving stability and performance
