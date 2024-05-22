@@ -85,3 +85,13 @@
 
 // Added dashboard feature on 2023-01-27
 // Enhancing user experience
+/**
+ * API JavaScript file
+ * Created on: 2024-05-22
+ * Author: Nasserxx
+ *
+ * Description: Implementation of API functionality
+ */
+ 
+// Implementation goes here
+
