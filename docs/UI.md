@@ -91,3 +91,6 @@
 
 // Added export feature on 2023-04-21
 // Enhancing user experience
+
+// Fixed issues on 2024-06-08
+// Improving stability and performance
