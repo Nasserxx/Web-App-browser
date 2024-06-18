@@ -10,3 +10,6 @@ This directory contains files related to assets functionality.
 
 // Added export feature on 2023-11-02
 // Enhancing user experience
+
+// Fixed issues on 2024-06-18
+// Improving stability and performance
