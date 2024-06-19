@@ -119,3 +119,13 @@
 
 // Added export feature on 2022-08-22
 // Enhancing user experience
+/**
+ * backend JavaScript file
+ * Created on: 2024-06-19
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
