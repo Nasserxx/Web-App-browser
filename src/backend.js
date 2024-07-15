@@ -64,3 +64,13 @@
 
 // Added settings feature on 2023-10-02
 // Enhancing user experience
+/**
+ * backend JavaScript file
+ * Created on: 2024-07-15
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of backend functionality
+ */
+ 
+// Implementation goes here
+
