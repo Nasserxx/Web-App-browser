@@ -30,3 +30,6 @@
 
 // Added registration feature on 2021-11-09
 // Enhancing user experience
+
+// Fixed issues on 2024-07-18
+// Improving stability and performance
