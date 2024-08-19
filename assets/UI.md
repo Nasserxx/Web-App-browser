@@ -158,3 +158,13 @@
 
 // Added pagination feature on 2023-11-28
 // Enhancing user experience
+/**
+ * UI Code file
+ * Created on: 2024-08-19
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of UI functionality
+ */
+ 
+// Implementation goes here
+
