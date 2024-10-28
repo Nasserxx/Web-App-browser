@@ -1,0 +1,10 @@
+/**
+ * frontend Code file
+ * Created on: 2024-10-29
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of frontend functionality
+ */
+ 
+// Implementation goes here
+
