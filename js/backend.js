@@ -141,3 +141,6 @@
 
 // Added registration feature on 2022-12-22
 // Enhancing user experience
+
+// Updated on 2024-12-18
+// Maintenance and minor improvements
