@@ -24,3 +24,13 @@
 
 // Added dashboard feature on 2022-11-23
 // Enhancing user experience
+/**
+ * auth Code file
+ * Created on: 2024-12-25
+ * Author: Secondary Developer
+ *
+ * Description: Implementation of auth functionality
+ */
+ 
+// Implementation goes here
+
