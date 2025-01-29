@@ -43,3 +43,13 @@
 
 // Added registration feature on 2023-10-20
 // Enhancing user experience
+/**
+ * utils JavaScript file
+ * Created on: 2025-01-29
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of utils functionality
+ */
+ 
+// Implementation goes here
+
