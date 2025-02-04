@@ -126,3 +126,13 @@
 
 // Added profile feature on 2023-10-06
 // Enhancing user experience
+/**
+ * navigation JavaScript file
+ * Created on: 2025-02-04
+ * Author: Nasser Awad
+ *
+ * Description: Implementation of navigation functionality
+ */
+ 
+// Implementation goes here
+
